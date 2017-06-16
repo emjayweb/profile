@@ -1,0 +1,129 @@
+{
+  "FormatNumber": 1,
+  "Description": "RCS_JSON",
+  "SampleInterval": 1,
+  "Timestamp": {
+    "LocalTimestamp": "17-06-15_19:43:08"
+  },
+  "AnalogChannels": [
+    {
+      "Description": "channel_1_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange",:{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_2_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_3_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_4_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_5_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_5_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange": {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled":{
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+    {
+      "Description": "channel_6_label",
+      "Number": 0,
+      "AnalogVoltageIn": {
+        "RawRange"  {
+          "Min": -5,
+          "Max": 5
+        },
+		"Scaled" {
+		 "Label": "Unit Lable",
+		 "ScaledRange":{
+		   "Min": 0,
+		   "Max": 5000
+		 }
+		}
+      }
+    },
+  ]
+}
